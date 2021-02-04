@@ -1,0 +1,45 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: 300;
+}
+
+#apps {
+    width: 100%;
+    height: 800px;
+    background-color: aqua;
+}
+
+#games {
+    width: 100%;
+    height: 800px;
+    background-color: red;
+}
+
+#chatbot {
+    width: 100%;
+    height: 800px;
+    background-color: yellow;
+}
+
+.menu {
+    position: fixed;
+    top: 0px;
+    color: coral;
+    list-style:none;
+width:100%; 
+}
+   
+.links{
+    display:inline;
+    font-size:30px;
+    padding-left:50px;
+    padding-right:50px;
+    
+}
+html{
+scroll-behavior:smooth;
+}
